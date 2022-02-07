@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bijan
-- 👀 I’m interested in infosec , pentesting and hacking
-- 🌱 I’m currently learning front end development , more python and more about web app pentesting
+- 👀 I’m interested in programming and hacking
+- 🌱 I’m currently learning more about web app hacking
 - 📫 How to reach me : you can find me (@bijan53c) on Telegram , Twitter and Instagram
 
 <!---
